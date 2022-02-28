@@ -14,7 +14,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Slack?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Slack-#4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
 
 <h3 align="center">🎀It's me, Cokkum🎀</h3>
 <p align="center">
