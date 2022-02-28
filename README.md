@@ -14,7 +14,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Amazon-#232F3E?style=flat-square&logo=#232F3E&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/#232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a>&nbsp
 <h3 align="center">🎀It's me, Cokkum🎀</h3>
 <p align="center">
   <a href="https://blog.naver.com/codingwhizkid"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=내링크"/></a>&nbsp
