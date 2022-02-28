@@ -11,8 +11,7 @@
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/C sharp-inactive?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Amazon-#232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-</p>
+ <img src="https://img.shields.io/badge/Amazon-#232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp</p>
 <p align="center">
  <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
