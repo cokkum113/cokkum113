@@ -3,6 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=COKKUM113&fontSize=90)
 
 
+![cokkum113's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokkum113&show_icons=true&theme=default)
+
+
 <h3 align="center">🛠Tech Stack🛠</h3>
 
 <p align="center">Skills that I've used at least once</p>
