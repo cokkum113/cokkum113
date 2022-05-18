@@ -28,14 +28,7 @@
 <p align="center">
  <a href="https://velog.io/@cokkum113"><img src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&amp;logo=Vector Logo Zone&amp;link=https://velog.io/@cokkum113"/></a>&nbsp
  
-
-<!--  <a href="https://velog.io/@cokkum113" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/9f5242b5d69f2745ada4aa0a2ac400f63ddbe02b7c2e22e856f08b23462a818c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d56656c6f672d3030616161373f7374796c653d666c6174266c6f676f3d566563746f72204c6f676f205a6f6e65266c696e6b3d68747470733a2f2f76656c6f672e696f2f406464696e675f6a69" data-canonical-src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&amp;logo=Vector Logo Zone&amp;link=https://velog.io/@dding_ji" style="max-width: 100%;">
-</a>
-  -->
- 
- 
 <p align="center">
- <a href="https://blog.naver.com/codingwhizkid"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=내링크"/></a>&nbsp
+ <a href="https://blog.naver.com/codingwhizkid"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/codingwhizkid"/></a>&nbsp
  
 
